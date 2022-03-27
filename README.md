@@ -1,1 +1,1 @@
-# GenericTestMaximum
+# GenericsTestMaximum
